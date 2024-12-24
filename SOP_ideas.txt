@@ -1,9 +1,7 @@
-1. Linux attach disk and create partition
 2. Terraform modules
 3. DNS zone 
-4. AKS ingress 
 5. AKS SSL binding
 6. Grafana try outs
-7. Basic Helm Deployment
-8. AKS deployment pipeline
 9. YAML based pipeline
+10. Vishal Kurane Project
+
