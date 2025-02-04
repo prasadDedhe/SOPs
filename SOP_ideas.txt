@@ -5,7 +5,8 @@
 9. YAML based pipeline
 10. Vishal Kurane Project
 11. HPA and stuff for Kubernetes
-12. VPN
+13. SonarQube
+14. Python quick revision SOP
 
 
 
