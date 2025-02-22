@@ -1,4 +1,4 @@
-2. Terraform modules
+
 3. DNS zone 
 5. AKS SSL binding
 6. Grafana try outs
