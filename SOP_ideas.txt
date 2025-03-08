@@ -7,7 +7,7 @@
 11. HPA and stuff for Kubernetes
 13. SonarQube
 14. Python quick revision SOP
-
+15. DataDog (normal SOP)
 
 
 3. AKS (improve)
@@ -15,3 +15,16 @@
 6. Networking  (improve)
 7. Linux Commands (improve)
 
+34910100008353
+
+34910100008353
+
+BARB0KHADAK
+
+Interview Preparations
+
+1. Python coding
+2. Bash coding
+3. DataDog Revision
+4. Kubernetes questions (on sites)
+5. 
