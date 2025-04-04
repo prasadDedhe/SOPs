@@ -1,19 +1,17 @@
 
 3. DNS zone 
-5. AKS SSL binding
-6. Grafana try outs
 9. YAML based pipeline
-10. Vishal Kurane Project
 11. HPA and stuff for Kubernetes
 13. SonarQube
 14. Python quick revision SOP
 15. DataDog (normal SOP)
-
+16. Cert binding AKS/Kubernetes
+17. Kubernetes health & liveliness probes
 
 3. AKS (improve)
 5. Python simple programs  (improve)
 6. Networking  (improve)
-7. Linux Commands (improve)
+7. Linux Commands/ Bash (improve)
 
 34910100008353
 
