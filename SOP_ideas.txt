@@ -1,12 +1,12 @@
 
 3. DNS zone 
 9. YAML based pipeline
-11. HPA and stuff for Kubernetes
-13. SonarQube
+13. SonarQube with PR in azure devops
 14. Python quick revision SOP
 15. DataDog (normal SOP)
 16. Cert binding AKS/Kubernetes
 17. Kubernetes health & liveliness probes
+
 
 3. AKS (improve)
 5. Python simple programs  (improve)
